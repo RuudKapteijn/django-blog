@@ -1,10 +1,21 @@
 h1 a, h2 a {
     color: #C25100;
-    font-family: 'Lobster';
+    font-family: Tomaha,Verdana,Segoe,sans-serif;
 }
 
 body {
     padding-left: 15px;
+}
+
+table {
+    display: table;
+    border-collapse: separate;
+    border-spacing: 0px;
+    border-color: gray;
+}
+
+th, td {
+    padding: 3px;
 }
 
 .page-header {
@@ -24,7 +35,7 @@ body {
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Lobster', cursive;
+    font-family: Tomaha,Verdana,Segoe,sans-serif, cursive;
 }
 
 .date {
